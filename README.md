@@ -7,3 +7,5 @@ Week 1: Análise de dados sobre saúde mental na área de tecnologia. [link](htt
 Week 2: Atribuição de score pessoal de cartão de credito usando random forest. [link](https://colab.research.google.com/drive/1k7A5Q6DSzvTq4e7TcsDAqoZRrtg7IJaO) notebook
 
 Week 3: Análise e previsão do score de felicidade de um país usando MLP. [link](https://colab.research.google.com/drive/1lRyzOQJ7EVtKlJnSaAQW9h1Mve8WqYwr) notebook
+
+week 4: Análise de agrupamento dos hábitos alimentares dos países. [link](https://colab.research.google.com/drive/1ZSbsmyhgrctlXxIUSHpDAjVGhtCPK8h9) notebook
