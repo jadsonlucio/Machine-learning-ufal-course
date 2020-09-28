@@ -9,3 +9,5 @@ Week 2: Atribuição de score pessoal de cartão de credito usando random forest
 Week 3: Análise e previsão do score de felicidade de um país usando MLP. [link](https://colab.research.google.com/drive/1lRyzOQJ7EVtKlJnSaAQW9h1Mve8WqYwr) notebook
 
 week 4: Análise de agrupamento dos hábitos alimentares dos países. [link](https://colab.research.google.com/drive/1ZSbsmyhgrctlXxIUSHpDAjVGhtCPK8h9) notebook
+
+week 5: Soccer player ability regression. [link](https://colab.research.google.com/drive/1e_MKIFIPItblbIOOKH1EF4qTkg-7Qk5_) notebook
