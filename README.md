@@ -11,3 +11,5 @@ Week 3: Análise e previsão do score de felicidade de um país usando MLP. [lin
 week 4: Análise de agrupamento dos hábitos alimentares dos países. [link](https://colab.research.google.com/drive/1ZSbsmyhgrctlXxIUSHpDAjVGhtCPK8h9) notebook
 
 week 5: Soccer player ability regression. [link](https://colab.research.google.com/drive/1e_MKIFIPItblbIOOKH1EF4qTkg-7Qk5_) notebook
+
+week 6: CNN_Pneumonia_detection_using_x_ray_image. [link](https://colab.research.google.com/drive/1qKVek35r7RMgoJN7VgrRaqenIt1r_1sl) notebook
